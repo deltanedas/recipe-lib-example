@@ -1,0 +1,8 @@
+{
+	"name": "recipe-lib-example",
+	"displayName": "[sky]Recipe Lib [red]Example[]",
+	"author": "DeltaNedas",
+	"description": "Example mod for [sky]Recipe Lib[].",
+	"version": "1.0.0",
+	"dependencies": ["recipe-lib"]
+}
