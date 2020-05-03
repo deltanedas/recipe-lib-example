@@ -33,11 +33,11 @@ const factory = recipeLib.extend(GenericSmelter, GenericCrafter.GenericCrafterEn
 		time: 15 // ... but 1.5x slower
 	},
 	// REMOVE
-/*	{
+	{
 		input: {items: ["copper/2", "coal/3"], liquids: ["water/5", "oil/3"]},
 		output: {item: "plastanium/5", liquid: "cryofluid/3"},
 		time: 120
-	}*/
+	}
 ]);
 factory.category = Category.crafting;
 factory.buildVisibility = BuildVisibility.sandboxOnly;
